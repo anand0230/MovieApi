@@ -21,8 +21,8 @@ A RESTful API for managing movie records with full CRUD operations. Data is stor
 - Spring Web
 - Lombok
 - Spring Data JPA
-- MySQL
-
+- MySQL driver
+  
 
 
 
